@@ -7,7 +7,7 @@
   <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dinelson&layout=compact&hide_border=true&title_color=CBDF1E&text_color=CBDF1E&bg_color=0d1117"/>
 </div>
 
-[![Dinelson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-dinelson&bg_color=0a0005&color=fff0fe&line=cbdf1e&point=cbc3c3&area=true&hide_border=true)](https://github.com/dev-dinelson)/github-readme-activity-graph)
+[![Dinelson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-dinelson&bg_color=0a0005&color=fff0fe&line=cbdf1e&point=cbc3c3&area=true&hide_border=true)](https://github.com/dev-dinelson)
   
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
